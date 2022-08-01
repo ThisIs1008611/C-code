@@ -1,0 +1,10 @@
+﻿  day2.cpp
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): message : 请考虑在格式字符串中使用“%zd”
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): message : 请考虑在格式字符串中使用“%zd”
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): message : 请考虑在格式字符串中使用“%zd”
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“size_t”
+E:\C代码区\Learning-C-code\day2\day2\day2.cpp(11,13): message : 请考虑在格式字符串中使用“%zd”
+  day2.vcxproj -> E:\C代码区\Learning-C-code\day2\x64\Debug\day2.exe
