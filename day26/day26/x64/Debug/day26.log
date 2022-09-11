@@ -1,0 +1,4 @@
+﻿  day26.cpp
+E:\C代码区\Learning-C-code\day26\day26\day26.cpp(25,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C代码区\Learning-C-code\day26\day26\day26.cpp(17,34): warning C4101: “h3”: 未引用的局部变量
+  day26.vcxproj -> E:\C代码区\Learning-C-code\day26\x64\Debug\day26.exe
